@@ -1,1 +1,1 @@
-# slowball
+Please see index.md
